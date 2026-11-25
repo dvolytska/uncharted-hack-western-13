@@ -1,4 +1,13 @@
-# Uncharted
+> **Hack Western 13 project** · Western University's hackathon, November 2026 · theme "Discover the unknown"
+>
+> Built by **Thomson Lam** and **Daryna Volytska**. Entered in the **Canada Life Future Me Challenge** and **Organizers' Choice: Most Adventurous**.
+>
+> - **Daryna:** product and UX design, and the Uncharted mobile app's interface (`uncharted-app/src`, `docs/design-rules`)
+> - **Thomson:** the road engine and server, the prototype playground (`playground/`), and the docs
+>
+> This is a copy of the team repo, [Thomson-Lam/hw](https://github.com/Thomson-Lam/hw).
+
+> Code by **Thomson Lam** and **Daryna Volytska**. Entered in the **Canada Life Future Me Challenge** and **Organizers' Choice: Most Adventurous**.# Uncharted
 
 We wanted to a) experiment with a new way to interact with and use LLMs to power the user experience, b) arrive at a same goal but through different processes and see what would happen, c) maybe not watch reels while Clauding and enrich ourselves organically without forcing ourselves to do so.
 
