@@ -1,6 +1,6 @@
 > **Hack Western 13 project** · Western University's hackathon, November 2026 · theme "Discover the unknown"
 >
-> Built by **Thomson Lam** and **Daryna Volytska**. Entered in the **Canada Life Future Me Challenge** and **Organizers' Choice: Most Adventurous**.
+> Built by **Thomson Lam**, **Daryna Volytska** and **Ethan Bobrik**. Entered in the **Canada Life Future Me Challenge** and **Organizers' Choice: Most Adventurous**.
 >
 > - **Daryna:** product and UX design, and the Uncharted mobile app's interface (`uncharted-app/src`, `docs/design-rules`)
 > - **Thomson:** the road engine and server, the prototype playground (`playground/`), and the docs
